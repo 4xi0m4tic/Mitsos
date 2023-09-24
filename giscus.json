@@ -1,1 +1,8 @@
-
+{
+    "origins": [
+        "https://reverseback.gr"
+    ],
+    "originsRegex": [
+        "http://localhost:[0-9]+"
+    ]
+}
